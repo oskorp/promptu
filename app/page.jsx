@@ -1,3 +1,4 @@
+
 const Home = () => {
   return (
     <section className="w-full flex-center flex-col">
@@ -9,7 +10,7 @@ const Home = () => {
       <p className="desc text-center">
         Propmtopia is an open source AI propmpting tool for modern world to discover,create and share creative propmts
       </p>
-
+      
     </section>
   );
 };
